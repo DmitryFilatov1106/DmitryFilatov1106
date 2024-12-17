@@ -20,7 +20,7 @@ I have experience building enterprise-level applications. Which use monolitic or
 *    Containers: Docker, docker-compose
 *    Library: Lombok, Servlet API, Thymeleaf, Logback
 *    Tests: JUnit 5, Mockito, Testcontainers
-*    Swagger: Springdoc-openapi Git, GitHub
+*    Swagger: Springdoc-openapi
 *    Git/GitHub
 
 ### My opensource projects
