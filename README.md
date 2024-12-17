@@ -3,7 +3,7 @@
 ***
 
 I am an experienced Software Engineer with a cool background in developing applications using Java.
-I have experience building enterprise-level applications. Which use monolitic or microservice or serverless arthitecture.
+I have experience building enterprise-level applications which use monolitic or microservice or serverless arthitecture.
 
 ## 🛠 Technical Stack
 
