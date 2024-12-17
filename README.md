@@ -7,7 +7,7 @@ I have experience building enterprise-level applications. Which use monolitic or
 
 ## 🛠 Technical Stack
 
-*    Java//Groovy
+*    Java/Groovy
 *    Spring Framework, Spring boot 3
 *    ORM: Hibernate, MyBatis
 *    API DB access: JDBC
