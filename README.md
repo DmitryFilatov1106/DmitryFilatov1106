@@ -1,5 +1,6 @@
-## Hi there, I'm Dmitry Filatov 👋
+## Hi there, I'm Dmitry 👋
 
+I am an experienced Software Engineer with a cool background in developing applications using Java. I have experience building enterprise-level applications. Which use monolitic or microservice or serverless arthitecture.
 <!--
 **DmitryFilatov1106/DmitryFilatov1106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
