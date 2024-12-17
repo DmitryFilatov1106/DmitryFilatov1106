@@ -5,7 +5,7 @@
 I am an experienced Software Engineer with a cool background in developing applications using Java.
 I have experience building enterprise-level applications which use monolitic or microservice or serverless arthitecture.
 
-## 🛠 Technical Stack
+##  Technical Stack
 
 *    Java/Groovy
 *    Spring Framework, Spring boot 3
@@ -23,7 +23,7 @@ I have experience building enterprise-level applications which use monolitic or 
 *    Swagger: Springdoc-openapi
 *    Git/GitHub
 
-## My opensource projects
+##  My opensource projects
 
 *    [kafka-kraft-meteo-microservice](https://github.com/DmitryFilatov1106/kafka-kraft-meteo-microservice) - Web app Processing weather sensor data (Apache Kafka KRaft was used)
 *    [open-classroom](https://github.com/DmitryFilatov1106/open-classroom) - Web app Additional classes
