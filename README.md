@@ -24,7 +24,7 @@ I have experience building enterprise-level applications which use monolitic or 
 *    Swagger: Springdoc-openapi
 *    Git/GitHub
 
-##  My opensource projects
+##  Opensource projects
 
 *    [kafka-kraft-meteo-microservice](https://github.com/DmitryFilatov1106/kafka-kraft-meteo-microservice) - Web app Processing weather sensor data (Apache Kafka KRaft was used)
 *    [open-classroom](https://github.com/DmitryFilatov1106/open-classroom) - Web app Additional classes
