@@ -13,7 +13,7 @@ I have experience building enterprise-level applications which use monolitic or 
 *    ORM: Hibernate, MyBatis
 *    API DB access: JDBC
 *    DB: PostgreSQL, Redis, H2
-*    Apache Kafka, gRPC
+*    REST API, Apache Kafka, gRPC
 *    Maven, Gradle
 *    Web server: Apache Tomcat
 *    Mapping: Mapstruct
