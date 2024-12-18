@@ -44,7 +44,8 @@ I have experience building enterprise-level applications which use monolitic or 
 *    [tasks-jdbc](https://github.com/DmitryFilatov1106/tasks-jdbc) - Task Management (jdbc was used)
 *    [minesweeper](https://github.com/DmitryFilatov1106/minesweeper) - Puzzle game Minesweeper
 *    [gomoku](https://github.com/DmitryFilatov1106/gomoku) - Puzzle game Gomoku
-*    
+  
+     
 <!--
 **DmitryFilatov1106/DmitryFilatov1106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
